@@ -3,4 +3,4 @@
 ![GitHub](https://img.shields.io/github/license/Gasis0Dev/Gasis0)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Gasis0Dev/Gasis0)
 ![GitHub issues](https://img.shields.io/github/issues/Gasis0Dev/Gasis0)
-![Logotype](./docs/wall.jpg)
+![Logotype](1.jpg)

@@ -11,7 +11,7 @@
   <a href="https://docs.google.com/document/d/106dtZsKkaZEnktpns04Skc-rbChEyvyH0faOnuDV4-o/edit?usp=drive_link">
     <img src="https://img.shields.io/badge/конспект-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
-  <a href="https:https://drive.google.com/drive/folders/1lHSqsimNNQ6zKUgW5ORlAiLfgMDrwUMw">
+  <a href="https://drive.google.com/drive/folders/1uJPC-3QHmeDUOgRcgIwHDwfXCDCY5iEK?usp=drive_link">
     <img src="https://img.shields.io/badge/Ермилова-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
   <a href="">

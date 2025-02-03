@@ -8,7 +8,7 @@
    <a href="https://drive.google.com/drive/folders/1KQCR0-aPK_FP8XVTbpYnpEWfyIPGP0vX">
     <img src="https://img.shields.io/badge/google drive-pink?style=for-the-badge&logo=google drive&logoColor=white" alt="Badge"/>
   </a>
-  <a href="https://docs.google.com/document/d/1gSQgqnEO5RZiQ0fnucTDvoL79OACgUtZl2idqmJ619A/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/106dtZsKkaZEnktpns04Skc-rbChEyvyH0faOnuDV4-o/edit?usp=drive_link">
     <img src="https://img.shields.io/badge/конспект-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
   <a href="https:https://drive.google.com/drive/folders/1lHSqsimNNQ6zKUgW5ORlAiLfgMDrwUMw">

@@ -5,9 +5,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/Gasis0Dev/Gasis0)
 ## Algoritmia_Godz.V.A
 <div id="badges" align="center">
-   <a href="https://drive.google.com/drive/folders/1KQCR0-aPK_FP8XVTbpYnpEWfyIPGP0vX">
-    <img src="https://img.shields.io/badge/google drive-pink?style=for-the-badge&logo=google drive&logoColor=white" alt="Badge"/>
-  </a>
   <a href="https://docs.google.com/document/d/106dtZsKkaZEnktpns04Skc-rbChEyvyH0faOnuDV4-o/edit?usp=drive_link">
     <img src="https://img.shields.io/badge/конспект-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>

@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/Gasis0Dev/Gasis0)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Gasis0Dev/Gasis0)
 ![GitHub issues](https://img.shields.io/github/issues/Gasis0Dev/Gasis0)
-## Algoritmizacia
+## Algoritmia_Godz.V.A
 <div id="badges" align="center">
    <a href="https://drive.google.com/drive/folders/1KQCR0-aPK_FP8XVTbpYnpEWfyIPGP0vX">
     <img src="https://img.shields.io/badge/google drive-pink?style=for-the-badge&logo=google drive&logoColor=white" alt="Badge"/>

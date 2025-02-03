@@ -18,7 +18,7 @@
 </div >
 <div align="center">
 
-## PredmetyLN
+## Predmet_LN
 
 <div id="badges" align="center">
   <a href="https://docs.google.com/document/d/1VsXI_eI1rxx7kivZYSPbBgvcYVdeXJU6RBngM0sQ2yI/edit?usp=drive_link">

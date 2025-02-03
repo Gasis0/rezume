@@ -27,13 +27,9 @@
   <a href="https://drive.google.com/drive/folders/17cCQtBvYrZCTB8htGi5qB1HLrXKFBvsD?usp=drive_link">
     <img src="https://img.shields.io/badge/БД-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
-  <a href="https://docs.google.com/document/d/1d6gGWea97nKSDp2xqEas_v-q4hXFkzkDnWIHAOEpheo/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/работы/тесты-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>
+  <a href="https://docs.google.com/presentation/d/1Wr5IBuTQilPKtECgTngVKiQMzVAhIfPeNRAp7p7F3vU/edit?usp=drive_link">
+    <img src="https://img.shields.io/badge/Презентация-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>
   </a>
-</div >
-<div align="center">
--- Презентации --
-<div id="badges" align="center">
    <a href="https://docs.google.com/presentation/d/1VOGdYVVg7ED0S4ggrrTiFzDes7Nx1DIE/edit?usp=sharing&ouid=101743919987561321728&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/тела вращения вокруг нас-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Badge"/>
   </a>

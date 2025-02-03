@@ -14,7 +14,7 @@
   <a href="https://drive.google.com/drive/folders/1uJPC-3QHmeDUOgRcgIwHDwfXCDCY5iEK?usp=drive_link">
     <img src="https://img.shields.io/badge/Ермилова-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
-  <a href="">
+  <a href="https://drive.google.com/drive/folders/1r5KKXfh3mq_bHh2KrkAC3l-aIzP12OIa?usp=drive_link">
     <img src="https://img.shields.io/badge/новелла-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>
   </a>
 </div >

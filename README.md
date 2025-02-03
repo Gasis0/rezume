@@ -6,9 +6,6 @@
 <div id="header" align="center">
   <img src="1.jpg" width="300"/>
 </div>
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNvMjMxMmRnYmtxdWZ6dXVvbHZ0ZnZieWZkdXZnbW91NHY1cXQ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yYfYMDigAVCncNH0Nt/giphy.gif" width="300"/>
-</div>
 <div id="badges" align="center">
   <a href="https://t.me/Loony221">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>

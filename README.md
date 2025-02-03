@@ -30,12 +30,6 @@
   <a href="https://docs.google.com/presentation/d/1Wr5IBuTQilPKtECgTngVKiQMzVAhIfPeNRAp7p7F3vU/edit?usp=drive_link">
     <img src="https://img.shields.io/badge/Презентация-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>
   </a>
-   <a href="https://docs.google.com/presentation/d/1VOGdYVVg7ED0S4ggrrTiFzDes7Nx1DIE/edit?usp=sharing&ouid=101743919987561321728&rtpof=true&sd=true">
-    <img src="https://img.shields.io/badge/тела вращения вокруг нас-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="https://loony211.github.io/PredmetyLN_eliseev/4vid..html">
-    <img src="https://img.shields.io/badge/презентация LibreOffice Base и SQL DBbrowser-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
-  </a>
 </div >
 <div align="center">
 

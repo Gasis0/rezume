@@ -24,7 +24,7 @@
   <a href="https://docs.google.com/document/d/1VsXI_eI1rxx7kivZYSPbBgvcYVdeXJU6RBngM0sQ2yI/edit?usp=drive_link">
     <img src="https://img.shields.io/badge/Конспект-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
-loony211.github.io/praktika/practika.html  <a href="https://drive.google.com/drive/folders/17cCQtBvYrZCTB8htGi5qB1HLrXKFBvsD?usp=drive_link">
+  <a href="https://drive.google.com/drive/folders/17cCQtBvYrZCTB8htGi5qB1HLrXKFBvsD?usp=drive_link">
     <img src="https://img.shields.io/badge/БД-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
   <a href="https://docs.google.com/presentation/d/1Wr5IBuTQilPKtECgTngVKiQMzVAhIfPeNRAp7p7F3vU/edit?usp=drive_link">

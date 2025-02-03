@@ -24,8 +24,8 @@
   <a href="https://docs.google.com/document/d/1VsXI_eI1rxx7kivZYSPbBgvcYVdeXJU6RBngM0sQ2yI/edit?usp=drive_link">
     <img src="https://img.shields.io/badge/Конспект-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
-  <a href="https://docs.google.com/document/d/1URm9x4TCR3_HDEC2RlF8Hxmdc7ksKwj4Hs7N6f_WZ7o/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/открытые уроки-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  <a href="https://drive.google.com/drive/folders/17cCQtBvYrZCTB8htGi5qB1HLrXKFBvsD?usp=drive_link">
+    <img src="https://img.shields.io/badge/БД-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
   <a href="https://docs.google.com/document/d/1d6gGWea97nKSDp2xqEas_v-q4hXFkzkDnWIHAOEpheo/edit?usp=sharing">
     <img src="https://img.shields.io/badge/работы/тесты-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>

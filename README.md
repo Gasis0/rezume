@@ -3,6 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/Gasis0Dev/Gasis0)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Gasis0Dev/Gasis0)
 ![GitHub issues](https://img.shields.io/github/issues/Gasis0Dev/Gasis0)
+
 ## Algoritmia_Godz.V.A
 <div id="badges" align="center">
   <a href="https://docs.google.com/document/d/106dtZsKkaZEnktpns04Skc-rbChEyvyH0faOnuDV4-o/edit?usp=drive_link">

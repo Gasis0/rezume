@@ -27,6 +27,9 @@
   <a href="https://drive.google.com/drive/folders/17cCQtBvYrZCTB8htGi5qB1HLrXKFBvsD?usp=drive_link">
     <img src="https://img.shields.io/badge/БД-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
+   <a href="https://gasis0.github.io/Predmet_LN_Godz.V.A./BD.html">
+    <img src="https://img.shields.io/badge/БД2-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
   <a href="https://docs.google.com/presentation/d/1Wr5IBuTQilPKtECgTngVKiQMzVAhIfPeNRAp7p7F3vU/edit?usp=drive_link">
     <img src="https://img.shields.io/badge/Презентация-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>
   </a>

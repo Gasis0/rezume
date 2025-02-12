@@ -38,7 +38,7 @@
 
 ## Практика
 <div id="badges" align="center">
-   <a href="https://gasis0.github.io/Praktika/Practika.html ">
+   <a href="https://gasis0.github.io/Praktika/Practika.html">
     <img src="https://img.shields.io/badge/Cайт-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Badge"/>
  </a>
 </div >
